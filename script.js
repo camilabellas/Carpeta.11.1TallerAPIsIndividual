@@ -17,4 +17,4 @@ function consultarCalidadAire() {
         .catch(error => {
             console.error('Error en la solicitud a la API:', error);
         });
-}
+    }
